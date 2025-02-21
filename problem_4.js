@@ -10,3 +10,4 @@ function isBestFriend (f1,f2){
     }
 }
 
+console.log ();
