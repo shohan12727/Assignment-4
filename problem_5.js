@@ -16,4 +16,5 @@ function calculateWatchTime (times){
 
 }
 
-console.log (calculateWatchTime([100, 3800, "90" ]))
+console.log (calculateWatchTime([100, 3800, "90"   ]))
+// shohan 
